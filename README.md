@@ -1,4 +1,6 @@
-[v0.0.2](https://github.com/littleflute/ab1/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/ab1/edit/master/README.md)
+
+[277M]
 
 [0018](0018)
 
